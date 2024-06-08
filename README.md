@@ -1,1 +1,4 @@
-# Airline-Dataset-Analysis
+# Exploring Insights From Synthetic Airline Data Analysis With Qlik 
+## Project Description- This project demonstrates how Qlik can be used to extract valuable insights from synthetic airline data, emphasizing the importance of data-driven decision-making in the aviation industry. We focused on key metrics such as the total number of passengers, the impact of flight cancellations and delays, gender distribution, on-time flights, and peak travel months. Additionally, we analyzed passenger demographics by nationality, continent-wise flight status, and age group by gender. By creating interactive visualizations and dashboards, we showcased how Qlik can transform raw data into actionable insights, helping airlines improve operations, enhance customer satisfaction, and make strategic decisions.
+### Dataset Link- **https://drive.google.com/file/d/1gRP_g6b3qP3CBWlEE2YKPFluxKybs_6n/view?usp=sharing**
+### Project Demonstration Link- **https://drive.google.com/file/d/1IE0RpIRCOHo9JHQqHiEYb3ufoiuGb8pD/view?usp=sharing**
